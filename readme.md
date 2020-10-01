@@ -1,6 +1,6 @@
-# NEM Website
+# NEM Website - An Amazing Project
 
-## Require Softwares
+## Required Softwares
 
 + Git
 + Node.js 6.5.0 (ndenv is recommended.)
